@@ -28,7 +28,9 @@ GymPro Previews: -
 
 ![image](https://github.com/Satyam123kumar/GymPro-Exercise-Navigator/assets/58924096/309943d2-302e-46f4-b847-aa33cc0d6781)
 
+
 4.) Showing related exercise videos, similar target muscle exercises, and similar equipment exercises. 
+
 ![image](https://github.com/Satyam123kumar/GymPro-Exercise-Navigator/assets/58924096/6a0d9319-5c31-4131-b2e7-9e916bffaa2c)
 
 

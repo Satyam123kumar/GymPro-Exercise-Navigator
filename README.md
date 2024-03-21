@@ -4,7 +4,7 @@ Developed an innovative Gym Exercise React website utilizing modern web technolo
 
 Key Features:
 
-* Implemented efficient search algorithms utilizing AJAX requests and JSON parsing to seamlessly retrieve and display exercise data from external APIs
+* Implemented efficient search algorithms utilizing Fetch API requests and JSON parsing to seamlessly retrieve and display exercise data from external APIs
 * Designed an intuitive single-page application (SPA) architecture using React.js, ensuring optimal performance and responsiveness
 * Integrated state management techniques such as Redux for centralized data handling and efficient UI updates
 * Utilized Material UI components for a polished and visually appealing user interface across various screen sizes and devices

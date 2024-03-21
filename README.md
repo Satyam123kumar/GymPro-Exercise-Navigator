@@ -1,4 +1,4 @@
-## GymPro: Exercise Navigator | [Link ->]([url](https://satyam-gym.netlify.app/))
+## GymPro: Exercise Navigator | [Link ->]([https://satyam-gym.netlify.app/])
 
 Developed an innovative Gym Exercise React website utilizing modern web technologies and Material UI for an enhanced front-end experience. This project features robust search functionality, leveraging RESTful API integration and asynchronous JavaScript to enable dynamic exploration of exercises by body parts, equipment, and exercise name.
 

@@ -1,16 +1,14 @@
 ## GymPro: Exercise Navigator | [Link ->](https://satyam-gym.netlify.app)
 
-Developed an innovative Gym Exercise React website utilizing modern web technologies and Material UI for an enhanced front-end experience. This project features robust search functionality, leveraging RESTful API integration and asynchronous JavaScript to enable dynamic exploration of exercises by body parts, equipment, and exercise name.
-
+Developed a comprehensive, AI-powered Health and Fitness Platform, combining a dynamic exercise encyclopaedia with a personalized plan generator. The core application is an innovative Gym Exercise website built with React, Material UI, and Redux, featuring robust search functionality that allows users to dynamically explore hundreds of exercises by body part, equipment, or name.
+This platform is enhanced by an integrated AI Health & Fitness Coach, a micro-application built with Python, Streamlit, and the LangGraph framework. This new module leverages a sophisticated multi-agent workflow to generate holistic, personalized diet and workout plans based on user-specific data like age, weight, activity level, and fitness goals.
 Key Features:
+*	**AI-Powered Personalization**: Engineered a multi-agent system using LangGraph and Google's Gemini model to create customized, actionable health strategies.
+*	**Full-Stack Integration**: Seamlessly connected the Python-based AI planner with the React front-end, providing a unified and intuitive user experience.
+*	**Dynamic Exercise Discovery**: Implemented efficient search algorithms utilizing the Fetch API to retrieve and display exercise data, complete with embedded YouTube video previews.
+*	**Modern Front-End Architecture**: Designed a responsive and performant single-page application (SPA) using React.js, managing complex state efficiently with Redux.
+*	**Polished User Interface**: Utilized Material UI and responsive design principles to deliver a visually appealing and accessible experience across all devices.
 
-* Implemented efficient search algorithms utilizing Fetch API requests and JSON parsing to seamlessly retrieve and display exercise data from external APIs
-* Designed an intuitive single-page application (SPA) architecture using React.js, ensuring optimal performance and responsiveness
-* Integrated state management techniques such as Redux for centralized data handling and efficient UI updates
-* Utilized Material UI components for a polished and visually appealing user interface across various screen sizes and devices
-* Employed responsive design principles and CSS media queries to ensure compatibility and usability across a range of devices
-* Developed custom components for displaying detailed exercise information and related embedded YouTube video previews utilizing React hooks and functional components.
-* Using component's reusability for displaying similar target muscle exercises and similar equipment exercises
 
 GymPro Previews: - 
 
@@ -29,8 +27,13 @@ GymPro Previews: -
 ![image](https://github.com/Satyam123kumar/GymPro-Exercise-Navigator/assets/58924096/309943d2-302e-46f4-b847-aa33cc0d6781)
 
 
+
 4.) Showing related exercise videos, similar target muscle exercises, and similar equipment exercises. 
 
 ![image](https://github.com/Satyam123kumar/GymPro-Exercise-Navigator/assets/58924096/6a0d9319-5c31-4131-b2e7-9e916bffaa2c)
 
+
+4.) View of AI-Coach
+
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/17400519-9fc2-4a3e-b90b-63ccbe3e50a8" />
 

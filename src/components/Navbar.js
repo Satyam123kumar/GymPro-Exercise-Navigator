@@ -29,7 +29,7 @@ const Navbar = () => {
             <Link to='/' style={{textDecoration: 'none', color: '#311212', borderBottom: '3px solid #FF2625'}}>
                 Home
             </Link>
-            <Link to='https://agenticai-fitnessapp-satyam.streamlit.app/' target="_blank" style={{textDecoration: 'none', color: '#311212'}}>AI Coach</Link>
+            <Link to='https://agenticai-fitnessapp-satyam.streamlit.app/' target="_blank" style={{textDecoration: 'none', color: '#311212'}}>AI-Coach</Link>
             {/* <a href='#exercises' style={{textDecoration: 'none', color: '#311212'}}>Exersices</a> */}
             
         </Stack>
@@ -38,4 +38,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
 

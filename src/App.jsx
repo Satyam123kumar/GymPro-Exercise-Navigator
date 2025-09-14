@@ -1,5 +1,4 @@
 import './App.css';
-import React from 'react';
 import {Route, Routes} from 'react-router-dom';
 import {Box} from '@mui/material';
 import Navbar from './components/Navbar';

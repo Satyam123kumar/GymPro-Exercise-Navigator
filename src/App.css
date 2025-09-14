@@ -27,15 +27,17 @@ body {
     font-size: 25px;
     border-radius: 4px;
     position: absolute;
-    bottom: -20px;
+    bottom:15px;
     right: 80px;
     transform: scale(1, 1);
     transition: 0.3s all ease-in-out;
+    z-index: 1;
 }
 
 .right-arrow {
     right: 140px;
 }
+
 
 .right-arrow:hover,
 .left-arrow:hover {
@@ -43,9 +45,20 @@ body {
 }
 
 .react-horizontal-scrolling-menu--wrapper {
+    position: relative; /* Make this the positioning parent for the arrows */
     width: 100%;
+    overflow: hidden; /* Hide the overflow */
+}
+
+.react-horizontal-scrolling-menu--scroll-container {
     display: flex;
-    flex-wrap: wrap;
+    overflow-x: scroll; /* Allow internal scrolling */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.react-horizontal-scrolling-menu--scroll-container::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari, and Opera */
 }
 
 .detail-image {
